@@ -51,7 +51,7 @@ El objetivo es centralizar distintas herramientas relacionadas con la lectura de
 ## 📁 Estructura del repositorio
 
 ```text
-capstone-plataforma-lectores/
+plataforma-lectores/
 │
 ├── android/
 │   └── Aplicación móvil Android
