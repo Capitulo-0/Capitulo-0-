@@ -66,6 +66,7 @@ plataforma-lectores/
 │   └── Documentación del proyecto
 │
 └── README.md
+```
 
 ## Flujo de trabajo con Git
 
