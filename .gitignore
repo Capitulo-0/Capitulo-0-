@@ -1,16 +1,12 @@
-# ==========================================
-# SISTEMA OPERATIVO
-# ==========================================
 
+# SISTEMA OPERATIVO
 .DS_Store
 Thumbs.db
 desktop.ini
 
 
-# ==========================================
-# ANDROID / ANDROID STUDIO
-# ==========================================
 
+# ANDROID STUDIO
 .gradle/
 .idea/
 **/build/
@@ -25,10 +21,8 @@ captures/
 keystore.properties
 
 
-# ==========================================
-# JAVA / SPRING BOOT / MAVEN
-# ==========================================
 
+# JAVA / SPRING BOOT / MAVEN
 **/target/
 *.class
 *.log
@@ -38,17 +32,13 @@ keystore.properties
 .settings/
 
 
-# ==========================================
-# VISUAL STUDIO CODE
-# ==========================================
 
+# VISUAL STUDIO CODE
 .vscode/
 
 
-# ==========================================
-# VARIABLES DE ENTORNO Y CREDENCIALES
-# ==========================================
 
+# VARIABLES DE ENTORNO Y CREDENCIALES
 .env
 .env.*
 !.env.example
@@ -57,14 +47,12 @@ application-local.properties
 application-local.yml
 application-local.yaml
 
+
 # Configuración Firebase local
 google-services.json
 
 
-# ==========================================
 # ARCHIVOS TEMPORALES
-# ==========================================
-
 *.tmp
 *.temp
 *.swp
