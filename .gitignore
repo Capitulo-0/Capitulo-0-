@@ -1,0 +1,59 @@
+
+# SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+
+# ANDROID STUDIO
+.gradle/
+.idea/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de firma Android
+*.jks
+*.keystore
+keystore.properties
+
+
+
+# JAVA / SPRING BOOT / MAVEN
+**/target/
+*.class
+*.log
+
+.classpath
+.project
+.settings/
+
+
+
+# VISUAL STUDIO CODE
+.vscode/
+
+
+
+# VARIABLES DE ENTORNO Y CREDENCIALES
+.env
+.env.*
+!.env.example
+
+application-local.properties
+application-local.yml
+application-local.yaml
+
+
+# Configuración Firebase local
+google-services.json
+
+
+# ARCHIVOS TEMPORALES
+*.tmp
+*.temp
+*.swp
+*~
